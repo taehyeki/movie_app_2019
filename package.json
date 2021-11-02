@@ -1,5 +1,5 @@
 {
-  "name": "movie_app_2021",
+  "name": "movie_app_2019",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,5 +39,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://taehyeki.github.io/movie_app_2021"
+  "homepage": "https://taehyeki.github.io/movie_app_2019"
 }
